@@ -1,0 +1,14 @@
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Datos.deps.json
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Datos.runtimeconfig.json
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Datos.runtimeconfig.dev.json
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Datos.dll
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.csprojAssemblyReference.cache
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.csproj.CoreCompileInputs.cache
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.AssemblyInfoInputs.cache
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.AssemblyInfo.cs
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Datos.pdb
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.csproj.CopyComplete
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.dll
+C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Datos\obj\Debug\netcoreapp2.2\Datos.pdb
