@@ -12985,11 +12985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\SistemaWeb2.csproj",
+      "projectUniqueName": "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\SistemaWeb2.csproj",
       "projectName": "SistemaWeb2",
-      "projectPath": "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\SistemaWeb2.csproj",
+      "projectPath": "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\SistemaWeb2.csproj",
       "packagesPath": "C:\\Users\\yairf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\obj\\",
+      "outputPath": "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\SistemaWeb2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -13010,11 +13010,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Datos\\Datos.csproj": {
-              "projectPath": "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Datos\\Datos.csproj"
+            "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Datos\\Datos.csproj"
             },
-            "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Entidades\\Entidades.csproj": {
-              "projectPath": "c:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Entidades\\Entidades.csproj"
+            "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\yairf\\OneDrive\\Escritorio\\ASP.NET CORE2\\SistemaWeb2\\Entidades\\Entidades.csproj"
             }
           }
         }

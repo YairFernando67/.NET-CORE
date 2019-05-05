@@ -1,7 +1,6 @@
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\bin\Debug\netcoreapp2.2\Entidades.deps.json
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\bin\Debug\netcoreapp2.2\Entidades.dll
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\bin\Debug\netcoreapp2.2\Entidades.pdb
-C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\obj\Debug\netcoreapp2.2\Entidades.csprojAssemblyReference.cache
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\obj\Debug\netcoreapp2.2\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\obj\Debug\netcoreapp2.2\Entidades.AssemblyInfoInputs.cache
 C:\Users\yairf\OneDrive\Escritorio\ASP.NET CORE2\SistemaWeb2\Entidades\obj\Debug\netcoreapp2.2\Entidades.AssemblyInfo.cs
